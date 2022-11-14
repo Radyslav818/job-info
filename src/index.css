@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  line-height: 25px;
+}
+body {
+  background: #e6e9f2;
+  font-family: "Proxima Nova", sans-serif;
+}
